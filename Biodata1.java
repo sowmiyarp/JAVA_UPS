@@ -8,6 +8,5 @@ public class Biodata1 {
         System.out.println("Mother Name   : Maheswari P");
         System.out.println("Education     : BTech CSE (AI & DS)");
         System.out.println("College       : SASTRA Deemed University");
-        System.out.println("Native Place  : Thiruvarur");
     }
 }
